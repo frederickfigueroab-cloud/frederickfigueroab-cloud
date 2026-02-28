@@ -1,16 +1,13 @@
-## Hi there 👋
+## 🎓 Perfil Profesional
+* **Tecnólogo en Logística y Transporte**
+* **Estudiante de Administración de Empresas** (Universidad Ecotec)
+* **Especialista en Decisiones Basadas en Datos** (Bootcamp ESPOL)
 
-<!--
-**frederickfigueroab-cloud/frederickfigueroab-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Habilidades Técnicas
+### 📊 Análisis de Datos
+- [ ] Herramienta 1 (Ej: Excel Avanzado)
+- [ ] Herramienta 2 (Ej: Power BI / SQL)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚛 Logística y Operaciones
+- [ ] Gestión de Inventarios
+- [ ] Optimización de Rutas de Transporte
